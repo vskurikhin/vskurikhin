@@ -2,4 +2,4 @@
 
 I works Software Developer and prefere Open Source && [Go](https://golang.org) && [Java](https://openjdk.java.net/) && [Rust](https://www.rust-lang.org/) && [PostgreSQL](https://www.postgresql.org/).
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vskurikhin&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-stats-extended.vercel.app/api?username=anuraghazra)](https://github.com/stats-organization/github-stats-extended)
